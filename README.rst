@@ -62,3 +62,9 @@ Test
     $ export ZAIM_ACCESS_TOKEN_KEY="YOUR ACCESS TOKEN KEY"
     $ export ZAIM_ACCESS_TOKEN_SECRET="YOUR ACCESS TOKEN SECRET"
     $ python test_zaimapi.py
+
+
+License
+-------
+
+The MIT License
